@@ -17,7 +17,7 @@ app.listen(3000, () => {
 
 mongoose
   .connect(
-    "mongodb+srv://hunainshaikh:0tX0n4ehc1Txw9Pc@nodebackenddb.ggmwt.mongodb.net/Node-API?retryWrites=true&w=majority&appName=NodeBackendDB"
+    "mongodb+srv://hunainshaikh:ehc1Txw9Pc@nodebackenddb.mongodb.net/Node-API?retryWrites=true&w=majority&appName=NodeBackendDB"
   )
   .then(() => {
     console.log("Connected to Mongo");
