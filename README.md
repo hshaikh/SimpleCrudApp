@@ -1,0 +1,2 @@
+# SimpleCrudApp
+ A MEaN app
